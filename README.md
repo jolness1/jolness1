@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-They call me Jacob Olness and I am a full-stack web developer. I love tackling problems I haven't encountered before. Because of this, computer programming has been a great fit. I am passionate about the ability technology has to enrich our lives and help humanity move forward. I want to do whatever I can to make that promise a reality. 
+My name Jacob and I am a full-stack web developer. I love tackling problems I haven't encountered before. Because of this, computer programming has been a great fit. I am passionate about the ability technology has to enrich our lives and help humanity move forward. I want to do whatever I can to make that promise a reality. 
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on an application for a group of Boys & Girls Clubs to help them track the way the children feel when starting and ending their time at the facility as well as how they feel about the programs offered so the administration has data to help them continuously improve the program.
