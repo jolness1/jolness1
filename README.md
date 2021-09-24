@@ -9,7 +9,6 @@ My name Jacob and I am a full-stack web developer. I love tackling problems I ha
 - 👨🏻‍💻 I am proficient in HTML/CSS, JavaScript and Java/Spring Framework/Maven
 - 🐧 I first fell in love with computers when I installed Linux on a Pentium laptop close to 20 years ago, it took a lot of work but I was hooked once I felt the satisfaction of getting something to work the way I wanted.
 - ⚡ My Hobbies include reading, tinkering with computers (I built myself a home server with multiple Virtual Machines running under VMware ESXi) and spending time taking advantage of all the beautiful recreation areas we have available in Montana to go fishing, hiking and camping.
-- 💬 If you would like to talk, reach out to me here on GitHub or on my <a href="https://www.linkedin.com/in/jacob-olness/">LinkedIn</a>, I look forward to hearing from you!
 
 <!--
 **jolness1/jolness1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
