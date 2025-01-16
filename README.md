@@ -1,14 +1,7 @@
 ### Welcome! 👋
 
-My name Jacob and I am a full-stack web developer. I love tackling problems I haven't encountered before. Because of this, computer programming has been a great fit. I am passionate about the ability technology has to enrich our lives and help humanity move forward. I want to do whatever I can to make that promise a reality. 
-
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Android Development.
-- 🧠 I have had a lifelong love of learning, I love diving deeply into the things I want to learn to do my best to understand them in a more holistic way.
-- 👨🏻‍💻 I am proficient in Kotlin,  Java, Spring Framework, Maven, Gradle, HTML/CSS, React/Redux and vanilla JavaScript
-- 🐧 I first fell in love with computers when I installed Linux on a Pentium laptop close to 20 years ago, it took a lot of work to get the unsupported PCMIA Ethernet adapter to work but I was hooked once I felt the satisfaction of getting something to work the way I wanted.
-- ⚡ My Hobbies include reading, tinkering with computers (I built myself a home server with multiple Virtual Machines running under VMware ESXi) and spending time taking advantage of all the beautiful recreation areas we have available in Montana to go fishing, hiking and camping.
-
+My name is Jacob and I am a software developer by training and am working at [Montana Free Press](https://montanafreepress.org/) as a data journalist. 
+🗞️ I am passionate about the impact good, non-partisan journalism can have on people's ability to make informed decisions. We live in a news desert here so contributing to MTFP's mission has been a dream come true.
 <!--
 **jolness1/jolness1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
