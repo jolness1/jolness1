@@ -2,7 +2,9 @@
 
 My name is Jacob and I am a software developer by training and am working at [Montana Free Press](https://montanafreepress.org/) as a data journalist. 
 
-🗞️ I am passionate about the impact good, non-partisan journalism can have on people's ability to make informed decisions. Coverage of State and Local politics here is limited so I am glad to contribute to MTFP's mission. 
+🗞️ I am passionate about the impact good, non-partisan journalism can have on people's ability to make informed decisions. Coverage of State and Local politics here is limited so I am glad to contribute to MTFP's mission.
+🐳 In my free time I write software for my home network infrastructure and play with new tools. 
+🧠 Currently am juggling machine vision and getting to know [Void Linux](https://voidlinux.org/) and am very impressed with its adherence to the [UNIX philsophy](https://en.wikipedia.org/wiki/Unix_philosophy) through it's init system `runit` and its package manager `xbps` which seems to take the best things from other package management tools.
 
 <!--
 **jolness1/jolness1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
