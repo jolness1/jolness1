@@ -4,7 +4,7 @@ My name is Jacob and I am a software developer by training and am working at [Mo
 
 🗞️ I am passionate about the impact good, non-partisan journalism can have on people's ability to make informed decisions. Coverage of State and Local politics here is limited so I am glad to contribute to MTFP's mission. 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jolness1&theme=tokyonight-duo&hide_border=true&short_numbers=true&card_height=495)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jolness1&theme=tokyonight-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 <!--
 **jolness1/jolness1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
